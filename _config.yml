@@ -283,11 +283,3 @@ defaults:
       search: true
       
       
-   - scope:
-      path: "_posts/algorithm"
-      type: posts
-    values:
-      sidebar:
-          nav: sidebar-algorithm
-      
-      

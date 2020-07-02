@@ -1,6 +1,0 @@
-# 워게임 포스트 사이드바
-sidebar-algorithm:
-  - title: "solved"
-    children:
-    - title: "https://www.acmicpc.net/"
-      url: "/tags/#baekjoon"
